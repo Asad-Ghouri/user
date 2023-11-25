@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1055625404017-8vf3ag77j3i5j1tp5n821aa650mkab5n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1055625404017-8vf3ag77j3i5j1tp5n821aa650mkab5n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBcTSRungBfqczcIZKNUsS3urVTatzj1OI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1055625404017</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ays.instant.services</string>
+	<key>PROJECT_ID</key>
+	<string>aysuser-ios</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aysuser-ios.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1055625404017:ios:10b31fce8bcbc861a405d0</string>
+	<key>DATABASE_URL</key>
+	<string>https://aysuser-ios-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
